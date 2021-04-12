@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WritersKatalog</string>
+    <string name="writers_name">Nama Penulis</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="name">Mirwan Abdurrahman Hakim</string>
+    <string name="email">mirwanhakim777@gmail.com</string>
+</resources>
